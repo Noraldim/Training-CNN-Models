@@ -1,3 +1,6 @@
+Main and full artical from [trekhleb](https://github.com/trekhleb/machine-learning-octave/tree/master)
+
+
 # Training-CNN-Models
 # Neural Network
 
